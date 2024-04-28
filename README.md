@@ -8,7 +8,7 @@ Air quality monitoring system with WeMos D1 R2
 
 ### Objective
 
-Build an air quality system with IOT technology and deploy on AWS
+Build an air quality system with IoT technology and deploy on AWS
 
 ### Hardware
 
@@ -19,7 +19,7 @@ Build an air quality system with IOT technology and deploy on AWS
 ### Technologies
 
 - Cloud - [**Amazon Web Service**](https://aws.amazon.com/)
-- IOT software platform - [**Blynk**](https://blynk.io/)
+- IoT software platform - [**Blynk**](https://blynk.io/)
 - LAMP stack - [**Linux**](https://www.linux.org/), [**Apache**](https://httpd.apache.org/), [**MariaDB**](https://mariadb.org/), [**PHP**](https://www.php.net/)
 
 ### Architecture
