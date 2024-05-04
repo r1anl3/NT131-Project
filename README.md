@@ -23,4 +23,9 @@ Build an air quality system with IOT technology and deploy on AWS
 - LAMP stack - [**Linux**](https://www.linux.org/), [**Apache**](https://httpd.apache.org/), [**MariaDB**](https://mariadb.org/), [**PHP**](https://www.php.net/)
 
 ### Architecture
-![alt text](/Image/nt132.drawio.png)
+![alt text](/Image/nt132-modified.drawio.png)
+
+### Contributors
+
+- Vu Le-Huynh-Quang, [@r1anl3](https://github.com/r1anl3)
+- Dai Trinh-Vinh, [@Daivjppro](https://github.com/Daivjppro)
